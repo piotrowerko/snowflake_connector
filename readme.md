@@ -1,4 +1,4 @@
-<h3>Snowflake connectior learning</h3>
+<h3>Snowflake connector learning</h3>
 
 Initial version
 
